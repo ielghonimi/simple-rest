@@ -1,2 +1,2 @@
-# Simple Restful API with h2
+# Simple Restful API with h2 (v1)
 
